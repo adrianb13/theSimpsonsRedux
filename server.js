@@ -3,11 +3,21 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3001;
 
+if (process.env.NODE_ENV === "production") {
+  app.use(express.static("client/build"));
+}
+
+app.use(express.urlencoded({ extended: false }));
+app.use(express.json());
+
 app.get('/', function (req, res) {
-	res.sendFile(path.join(__dirname, './app/index.html'));
+	res.sendFile(path.join(__dirname, './client/index.html'));
 });
 
-app.use(express.static("./app")); // set static files location, in this case the route, add a file name if not
+app.get("*", function(req, res) {
+  res.sendFile(path.join(__dirname, "./client/build/index.html"));
+});
+
 app.listen(PORT, function () {
   console.log("Listening on port:" + PORT);
 });
