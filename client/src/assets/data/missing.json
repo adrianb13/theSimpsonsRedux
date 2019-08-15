@@ -1,0 +1,86 @@
+[
+  {
+    "season": 1,
+    "episode": 1,
+    "Title": "Simpsons Roasting on an Open Fire",
+    "Released": "17 Dec. 1989",
+    "Plot": "The family is forced to spend all of their savings to get Bart's new tattooo removed, and with no money for Christmas, Homer is forced to become a store Santa." 
+  },
+  {
+    "season": 1,
+    "episode": 2,
+    "Title": "Bart the Genius",
+    "Released": "14 Jan. 1990",
+    "Plot": "Bart ends up at a school for gifted children after cheating on an IQ test."
+  },
+  {
+    "season": 1,
+    "episode": 3,
+    "Title": "Homer's Odyssey",
+    "Released": "21 Jan. 1990",
+    "Plot": "After losing his job, Homer contemplates ending it all, until he discovers a new life path as a safety advocate."
+  },
+  {
+    "season": 1,
+    "episode": 4,
+    "Title": "There's No Disgrace Like Home",
+    "Released": "28 Jan. 1990",
+    "Plot": "After being embarrassed by the rest of the family at a company picnic, Homer becomes obsessed with improving their behavior towards each other."
+  },
+  {
+    "season": 1,
+    "episode": 5,
+    "Title": "Bart the General",
+    "Released": "4 Feb. 1990",
+    "Plot": "After being beaten up by Nelson Muntz one too many times, Bart turns to Grampa for help, and soon leads a rebellion against the school bully."
+  },
+  {
+    "season": 1,
+    "episode": 6,
+    "Title": "Moaning Lisa",
+    "Released": "11 Feb. 1990",
+    "Plot": "A depressed Lisa's spirit is lifted when she meets a jazz-man, Bleeding Gums Murphy."
+  },
+  {
+    "season": 2,
+    "episode": 5,
+    "Title": "Dancin' Homer",
+    "Released": "8 Nov. 1990",
+    "Plot": "Homer's heckling of the Springfield Isotopes baseball team during one of their games inadvertently leads to his appointment as the new team mascot."
+  },
+  {
+    "season": 2,
+    "episode": 7,
+    "Title": "Bart vs. Thanksgiving",
+    "Released": "22 Nov. 1990",
+    "Plot": "On Thanksgiving, Bart runs away after fighting with Lisa."
+  },
+  {
+    "season": 2,
+    "episode": 8,
+    "Title": "Bart the Daredevil",
+    "Released": "6 Dec. 1990",
+    "Plot": "After seeing a motorcycle daredevil at a monster truck show, Bart becomes a death-defying daredevil skateboarder."
+  },
+  {
+    "season": 2,
+    "episode": 9,
+    "Title": "Itchy and Scratchy and Marge",
+    "Released": "20 Dec. 1990",
+    "Plot": "Marge becomes a crusader against cartoon violence after watching The Itchy and Scratchy Show."
+  },
+  {
+    "season": 2,
+    "episode": 10,
+    "Title": "Bart Gets Hit by a Car",
+    "Released": "10 Jan. 1991",
+    "Plot": "While skateboarding down the street, Bart is hit by a car driven by Mr. Burns. Homer turns down Mr. Burns' token offer of $100, and instead hires ambulance-chaser Lionel Hutz to bring an outrageous lawsuit against the millionaire."
+  },
+  {
+    "season": 2,
+    "episode": 11,
+    "Title": "One Fish, Two Fish, Blowfish, Blue Fish",
+    "Released": "24 Jan. 1991",
+    "Plot": "After apparently consuming poison blowfish, Homer is told that he only has 24 hours to live."
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Homer",
+    "fullname": "Homer Jay Simpson",
+    "image": "../images/homer1.jpg",
+    "description": "Father of the Simpson Family. He is viewed as the stereotypical American working class citizen which usually encompasses imcompetence, clumsiness, obesity, and lacking class and etiquette. But he is also a dedicated, hard-working father, with usually good intentions in mind though they may not be viewed as so. He is the safety inspector of the Springfield Nuclear Power Plant. He has also had many other jobs such as snow plow driver, writer, astronaut, boxer, 'carny,' and bootlegger. Even though Bart was the most popular character early on, arguably Homer is now the most popular.",
+    "random": [
+      {"fact": "Voiced by Dan Castellaneta."},
+      {"fact": "Has an actual SSN# 568-47-0008."},
+      {"fact": "Described by British 'The Sunday Times' as 'The greatest comic creation of [modern] time."},
+      {"fact": "The show has won muliple Emmy Awards, many of which feature Homer as the main focus of the episode."},
+      {"fact": "In 2017, the National Baseball Hall of Hame honored the 25th anniversay of the episode 'Homer At The Bat' where he is a pro baseball player." },
+      {"fact": "Homer has appeared as a guest on American Idol."},
+      {"fact": "He was a downloadable GPS voice for TomTom in 2009."},
+      {"fact": "The catchphrase 'D'oh!' is officially in the English dictionary."}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Marge",
+    "fullname": "Marjorie Jacqueline Simpson",
+    "image": "../images/marge1.jpg",
+    "description": "Mother of the Simpson Family. She is recognized for her distinctive blue 'beehive' hairstyle. Her sisters are Patty and Selma, their family name is Bouvier. She is your typical caring, nurturing, and understanding mother and loyal, hardworking wife. She is more morally grounded than Homer, and has influenced Lisa to be much of the same. The hold a strong bond with each other and often share similar views. But the family's antics due create a large stress on her that is continually touched-on throughout the seasons.",
+    "random": [
+      {"fact": "Voiced by Julie Kavner"},
+      {"fact": "Has held at least 25 different jobs such as Real Estate Agent, Police Officer, Waitress, Car Mechanic, and Maid."},
+      {"fact": "Is viewed as Democrat based on her actions and beliefs in the show."},
+      {"fact": "She's been highly ranked among Top TV Mothers by many different surveys over the years such as Entertainment Weekly and Time Magazine."},
+      {"fact": "Her and her family were put on official USPS stamps in 2009. The first characters while the show was still in production."},
+      {"fact": "Was the first fictional character to appear on the cover of Playboy in October 2009."}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bart",
+    "fullname": "Bartholomew JoJo Simpson",
+    "image": "../images/bart1.jpg",
+    "description": "Only son of Homer & Marge. He is very mischievous and loves to challenge authority. It's not all bad, he does show signs of integrity, empathy, and loyalty. He is known for his opening sequence chalkboard sentences, skateboarding all over town, prank calls to Moe, and overall crazy antics that occur on each episode. He has a special connection with Homer that usually gets them in trouble since they both have questionable decision making at times. Considering he is a never-aging child, he has held some very interesting jobs such as a doorman for the local burlesque house and bartender for the mafia boss Fat Tony.",
+    "random": [
+      {"fact": "Voiced by Lisa Cartwright. (That's right, a woman)"},
+      {"fact": "Bart is the most commonly nude character in the show."},
+      {"fact": "Early on, many public schools banned Bart Simpson clothing because of his challenge of authority on the show."},
+      {"fact": "His popularity was used by Fox to challenge top shows of other networks at the time like 'The Bill Crosby Show.'"},
+      {"fact": "In the 1990 U.S. Elections, Bart was the second highest write-in vote behind Mickey Mouse for fictional characters."},
+      {"fact": "In 1990, 'Do The Bartman' was the first single from the album 'The Simpsons Sing The Blues.' The album went DOUBLE PLATINUM!!!"}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lisa",
+    "fullname": "Lisa Marie Simpson",
+    "image": "../images/lisa1.jpg",
+    "description": "Oldest Daughter of Homer & Marge. Originally, she mirrored Bart's behavior but was later developed into the opposite. She is very intelligent and morally grounded like her mother. She does take a liberal stance in her viewpoints on gay rights, feminism, and environmentalism. She is also a vegetarian and practices Buddhist. Because of these views, she does polarize the show's fans. Opposite to Bart's school popularity, she is the 'nerdy' kid who gets picked on. She is also known for her skills on a saxophone as diplayed on the opening sequence of the show.",
+    "random": [
+      {"fact": "Voiced by Yeardley Smith."},
+      {"fact": "She is named after Matt Groening's younger sister."},
+      {"fact": "According to the show, her email is smartgirl63@yahoo.com"},
+      {"fact": "Her environmentalist actions in the show have won praise and awards with real environmentalist groups."},
+      {"fact": "Her listed IQ is 159, (basically a genius). There is an episode (S12 EP9, #257) that explains her genius intelligence is passed more so through her father, Homer."},
+      {"fact": "Her use of the expression 'Meh' became part of the American lingo and is officially in the English dictionary."}
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Maggie",
+    "fullname": "Margaret Evelyn Simpson",
+    "image": "../images/maggie1.jpg",
+    "description": "Youngest Daughter of Homer & Marge. She is an infant who cannot yet walk. She is portrayed crawling around and often falling on her face due to tripping on her own clothing. She doesn't really speak and is more often heard sucking on her pacifier when focused on. Despite all this, she does show signs of being a genius. She used her building blocks to display Einstein's famous equation, she's driven Homer's car, and even shot Mr. Burns. One can only assume the amount of information and secrets she holds since she is usually dismiss by the family as just being a baby.",
+    "random": [
+      {"fact": "Voiced by numerous actors and includes the creator Matt Groening."},
+      {"fact": "Her first word was 'daddy' to Homer."},
+      {"fact": "Multiple episodes show she is a marksman shooter and will show it to protect her family."},
+      {"fact": "She has saved Homer on multiple occasions such as from drowning and from being shot by Russ Cargill, head of the EPA."},
+      {"fact": "She is the least seen character because of her age and inability to carry dialogue."},
+      {"fact": "In the opening sequence as of 2009, Maggie scans in at $486.52 when passed through the checklane scanner. The original amount was $847.63, which was the calculated price to raise a baby each month in 1989."}
+    ]
+  }
+]

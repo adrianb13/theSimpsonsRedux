@@ -1,0 +1,306 @@
+.vw-cont {
+  min-height: -webkit-fill-available;
+  margin: 0px;
+}
+.banBox {
+  background: url("assets/img/house1.jpg") no-repeat;
+  background-size: 100% 100%;
+  height: 500px;
+  margin: 0px;
+  padding-top: 20px;
+}
+#title {
+  background: url("assets/img/logo1.jpg") no-repeat;
+  background-size: 350px 175px;
+  height: 175px;
+  width: 350px;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+#intro {
+  width: 402px;
+  margin: 20px auto;
+}
+iframe {
+  width: 400px; 
+  height: 225px;
+}
+.nav {
+  width: 100%;
+  background: darkblue;
+  padding-bottom: 12px;
+  box-shadow: 
+  inset 0px -5px 10px lightblue,
+  0px -2px 10px lightblue;
+}
+.nBar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 12px;
+}
+.nFt {
+  color: yellow;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 25px;
+}
+.nFt:hover {
+  color: red;
+}
+a:focus, a:active {
+  border: none;
+}
+.sel {
+  background: darkblue;
+  border: none;
+  color: yellow;
+  font-family: 'Indie Flower', cursive;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0 15px;
+  padding-left: 5px;
+}
+.sel:hover:focus:visited:active {
+  border: none;
+  box-shadow: none;
+}
+.sel option {
+  font-weight: bold;
+  background: darkblue;
+  box-shadow: none;
+}
+.sel option:hover:focus {
+  color: yellow;
+  background-color: red;
+  box-shadow: none;
+}
+.tBox {
+  background: lightblue;
+  width: 100%; 
+  padding: 20px 0;
+  text-align: center;
+}
+.fBox {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+.cBox {
+  height: 320px;
+  width: 250px;
+  margin: 30px 30px;
+}
+.imgBox {
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  border: 5px solid lightblue;
+}
+.imgBox:hover {
+  border: 5px solid yellow;
+  box-shadow: 2px 2px 5px darkblue,
+    -2px 2px 5px darkblue,
+    2px -2px 5px darkblue,
+    -2px -2px 5px darkblue;
+}
+.font {
+  color: yellow;
+  font-family: 'Indie Flower', cursive;
+  font-size: 50px;
+  text-shadow: 1px 1px black,
+    1px -1px black,
+    -1px 1px black,
+    -1px -1px black;
+  margin-bottom: 10px;
+}
+.cBox:hover {
+  text-decoration: underline darkblue;
+}
+a {
+  text-decoration: none;
+}
+.cont {
+  width: 100%;
+  height: 550px;
+}
+.iBack {
+  background: url("assets/img/livingroom1.jpg") no-repeat;
+  background-color: lightblue;
+  background-size: 100% 100%;
+  padding: 20px 0 5px 0;
+  margin: 0;
+  min-height: -webkit-fill-available;
+}
+.iBox {
+  width: 450px;
+  text-align: center;
+  margin: 0 auto;
+}
+.iBox2 {
+  margin: 30px auto 10px auto;
+}
+.iBox3 {
+  height: 400px;
+  width: 400px;
+  border-radius: 20px;
+  border: 5px solid lightblue;
+}
+.dBack {
+  background: lightblue;
+  min-height: -webkit-fill-available;
+  padding-top: 15px;
+}
+.dBox {
+  width: 80%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  text-align: center;
+  margin: 0 auto;
+}
+.dBox2 {
+  width: 400px;
+  background: white;
+  border: 5px solid yellow;
+  border-radius: 20px;
+  padding: 0 15px 15px 15px;
+  margin: 10px;
+}
+.desc {
+  font-family: 'Indie Flower', cursive;
+  font-size: 200%;
+  color: darkblue;
+  margin: 10px 0 0 0;
+}
+.font2 {
+  font-size: 140%;
+}
+.fjust {
+  text-align: justify;
+}
+.flt {
+  text-align: left;
+}
+.blue {
+  color: darkblue;
+}
+.ftr {
+  height: 30px;
+  background: lightgrey;
+  text-align: center;
+  font-size: 80%;
+  padding-top: 10px;
+  margin: 0 auto;
+}
+.tvBack {
+  background: url("assets/img/tv1.jpg") no-repeat;
+  background-color: lightblue;
+  background-size: 100% 100%;
+  padding: 15px 0 130px 0;
+  margin: 0;
+  min-height: -webkit-fill-available;
+}
+.tvBox {
+  width: 60%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 50px 0 10px 0;
+}
+.tvBox2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+.epH {
+  color: yellow;
+  font-family: 'Indie Flower', cursive;
+  font-size: 40px;
+  text-shadow: 1px 1px black,
+    1px -1px black,
+    -1px 1px black,
+    -1px -1px black;
+  margin-bottom: 10px;
+}
+.lbl {
+  font-size: 25px;
+}
+.marLt {
+  margin: 0 15px 0 5px;
+}
+.nwMar {
+  margin: 5px 0;
+}
+.error {
+  margin-top: 20px;
+}
+.select {
+  height: 30px;
+  width: 120px;
+  background: rgb(255, 255, 39);
+  border: 1px solid yellow;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 110%;
+}
+.select option {
+  font-weight: bold;
+  padding: 0;
+  margin: 0;
+}
+.dbtn {
+  width: 100px;
+  background: rgb(173, 0, 0);
+  border-radius: 5px;
+  border: none;
+  color: yellow;
+  font-size: 20px;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 620px) and (max-width: 750px) {
+  .banBox {
+    height: 420px;
+  }
+  .tvBox {
+    width: 410px;
+    padding: 65px 0 50px 0;
+  }
+}
+
+@media (max-width: 619.99px) {
+  .banBox {
+    height: 300px;
+  }
+  #title {
+    background-size: 200px 100px;
+    height: 100px;
+    width: 200px;
+  }
+  #intro {
+    width: 322px;
+  }
+  iframe {
+    height: 180px;
+    width: 320px;
+  }
+  .tvBox {
+    width: 360px;
+    padding: 80px 0 60px 0;
+  }
+  .epH {
+    font-size: 35px;
+  }
+  .lbl {
+    font-size: 25px;
+  }
+  .select {
+    font-size: 100%;
+  }
+}
