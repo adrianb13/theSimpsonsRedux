@@ -32,7 +32,7 @@ class FamDetail extends React.Component {
             <div className="dBox2">
               <h2 className="desc">Random Facts:</h2>
               {this.props.simpson.random.map(fact => (
-                <div className="font2 flt" key={fact.fact}>
+                <div className="font2 flt2" key={fact.fact}>
                   <div><span className="blue">{"\u261b"} </span> {fact.fact}</div>
                 </div>
               ))}

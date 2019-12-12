@@ -185,6 +185,9 @@ a {
 .flt {
   text-align: left;
 }
+.flt2 {
+  text-align: left;
+}
 .blue {
   color: darkblue;
 }
@@ -295,12 +298,30 @@ a {
     padding: 80px 0 60px 0;
   }
   .epH {
-    font-size: 35px;
+    font-size: 30px;
+    width: 80%;
+    margin: 20px auto 10px;
   }
   .lbl {
     font-size: 25px;
   }
   .select {
     font-size: 100%;
+  }
+  .flt {
+    text-align: left;
+    width: 66%;
+    margin-left: 17%
+  }
+  .flt2 {
+    text-align: left;
+    width: 100%;
+  }
+  .iBox {
+    width: 100%;
+  }
+  .iBox3 {
+    height: 250px;
+    width: 250px;
   }
 }
