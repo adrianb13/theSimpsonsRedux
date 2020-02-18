@@ -85,7 +85,7 @@ class Episode extends React.Component {
         <Nav></Nav>
         <div className="tvBack">
           <div className="tvBox">
-            <h2 className="epH">Look Up Episode Details</h2>
+            <h2 className="epH padtop">Look Up Episode Details</h2>
 
             <div className="tvBox2">
               <div>

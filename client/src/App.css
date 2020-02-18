@@ -187,6 +187,9 @@ a {
 .padbtm {
   padding-bottom: 100px;
 }
+.padtop {
+  padding-top: 70px;
+}
 .fjust {
   text-align: justify;
 }
@@ -238,7 +241,6 @@ a {
     -1px 1px black,
     -1px -1px black;
   margin-bottom: 10px;
-  padding-top: 70px;
 }
 .lbl {
   font-size: 25px;
