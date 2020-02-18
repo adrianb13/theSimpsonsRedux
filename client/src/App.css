@@ -1,3 +1,8 @@
+body {
+  background: lightblue;
+  margin: 0;
+  padding: 0;
+}
 .vw-cont {
   min-height: -webkit-fill-available;
   margin: 0px;
@@ -179,6 +184,9 @@ a {
 .font2 {
   font-size: 140%;
 }
+.padbtm {
+  padding-bottom: 100px;
+}
 .fjust {
   text-align: justify;
 }
@@ -200,10 +208,11 @@ a {
   margin: 0 auto;
 }
 .tvBack {
+  height: 100vh;
   background: url("assets/img/tv1.jpg") no-repeat;
   background-color: lightblue;
   background-size: 100% 100%;
-  padding: 15px 0 130px 0;
+  padding: 0px 0 0px 0;
   margin: 0;
   min-height: -webkit-fill-available;
 }
@@ -229,6 +238,7 @@ a {
     -1px 1px black,
     -1px -1px black;
   margin-bottom: 10px;
+  padding-top: 70px;
 }
 .lbl {
   font-size: 25px;
@@ -301,6 +311,7 @@ a {
     font-size: 30px;
     width: 80%;
     margin: 20px auto 10px;
+    padding-top: 5px;
   }
   .lbl {
     font-size: 25px;
@@ -323,5 +334,11 @@ a {
   .iBox3 {
     height: 250px;
     width: 250px;
+  }
+}
+
+@media(max-width: 450px){
+  .tvBack{
+    height: 100%;
   }
 }

@@ -139,7 +139,7 @@ class Episode extends React.Component {
                       <div className="epH lbl nwMar">Episode Date:</div>
                       <div className="font2">{this.state.ep.Released}</div>
                       <div className="epH lbl nwMar">Plot:</div>
-                      <div className="font2">{this.state.ep.Plot}</div>
+                      <div className="font2 padbtm">{this.state.ep.Plot}</div>
                     </div>
                   </div>
                 ) : (
