@@ -15,7 +15,7 @@ export function findEpisode(info){
     return API.getEpisode(info)
     .then(episode => {
       //If Episode is available on OMDB API
-      if (!episode.data.Error) {
+      if (!episode.data.Error && episode.data.Plot !== "N/A") {
         dispatch(getEpisodeSuccess(episode.data));
       //If Episode is listed in Missing JSON
       } else {

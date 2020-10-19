@@ -64,6 +64,7 @@ class Episode extends React.Component {
 
   //Displays episode info or error that info is unavailable.
   showInfo = () => {
+    console.log(this.props.episode)
     if(this.props.episode.length > 0 && this.props.episode[0] != null){
       this.setState({
         ep: this.props.episode[0],
