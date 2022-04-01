@@ -45,6 +45,7 @@ iframe {
   padding-top: 12px;
 }
 .nFt {
+  cursor: pointer;
   color: yellow;
   font-family: 'Indie Flower', cursive;
   font-size: 20px;
@@ -58,6 +59,7 @@ a:focus, a:active {
   border: none;
 }
 .sel {
+  cursor: pointer;
   background: darkblue;
   border: none;
   color: yellow;

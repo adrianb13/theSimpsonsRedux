@@ -1,4 +1,4 @@
-import API from "../utils/API";
+import {API} from "../utils/API";
 import * as types from "./types";
 import family from "../assets/data/simpsons.json";
 import missing from "../assets/data/missing.json";
@@ -14,6 +14,7 @@ export function findEpisode(info){
   return function(dispatch) {
     return API.getEpisode(info)
     .then(episode => {
+      console.log(episode)
       //If Episode is available on OMDB API
       if (!episode.data.Error && episode.data.Plot !== "N/A") {
         dispatch(getEpisodeSuccess(episode.data));

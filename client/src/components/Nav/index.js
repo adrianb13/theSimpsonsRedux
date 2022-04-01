@@ -8,7 +8,7 @@ class Nav extends React.Component {
 
   portfolio = event => {
     event.preventDefault();
-    window.open("https://adrianb13.github.io/Responsive-Portfolio/portfolio.html")
+    window.open("https://adrianbriones.herokuapp.com/");
   }
 
   render () {
